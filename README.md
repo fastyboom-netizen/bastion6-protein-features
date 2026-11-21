@@ -5,7 +5,7 @@
 
 [Открыть в Colab](https://colab.research.google.com/github/fastyboom-netizen/bastion6-protein-features/blob/main/Bastion6_features_Colab.ipynb)
 
-В Colab запустите все ячейки и загрузите архив с данными из задания. В конце скачается ZIP с таблицами.
+В Colab положите архив `t6se-training-data.zip` в раздел «Файлы» и запустите все ячейки. Код читает архив оттуда, повторно загружать его при каждом запуске не нужно. В конце скачается ZIP с таблицами.
 
 - `protein_features.py` — функции расчёта признаков.
 - `Bastion6_features_Colab.ipynb` — загрузка данных, расчёт и выгрузка.
