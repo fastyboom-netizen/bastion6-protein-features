@@ -1,0 +1,66 @@
+{
+  "parameters": {
+    "maxlag": 30,
+    "weight": 0.1,
+    "frequency_scale": "fraction"
+  },
+  "class_labels": {
+    "positive": 1,
+    "negative": 0
+  },
+  "counts": {
+    "negative": 1112,
+    "positive": 138
+  },
+  "feature_dimensions": {
+    "AAC": 20,
+    "DPC": 400,
+    "QSO": 100,
+    "CTDC": 21,
+    "CTDT": 21
+  },
+  "input_archive_sha256": "d250d529d4035449d54fa2c542c86cfc9c1657a59398ce9020374f789ac1dcf5",
+  "input_members": [
+    {
+      "file": "T6SE_training_data/T6SE_Training_Neg_1112.fasta",
+      "sha256": "84f70d5a4470785b3e38e22aebce8e8e08ac66dedc9ca1b0d2d17db53a21d74f"
+    },
+    {
+      "file": "T6SE_training_data/T6SE_Training_Pos_138.fasta",
+      "sha256": "bd42cea37cdfa4b682d235ce2020e256ba6786141b94092b1f0864d6686a1a71"
+    }
+  ],
+  "versions": {
+    "python": "3.13.18",
+    "numpy": "2.4.6",
+    "pandas": "2.2.3"
+  },
+  "distance_matrix_sha256": {
+    "SW": "d0c4a66eddc4bd302ffffa71320ef4144d27e05c293715e06baf8fbadcd9b45f",
+    "Grantham": "883552c4d832dbfc0fd422126a5fae2ba62a28852f932bb2812dfe6399e53a15"
+  },
+  "module_sha256": "2480ccad692630064b86fd2d38e36b717145a8fd58be055412458a5787f99a10",
+  "csv_sha256": {
+    "all_features.csv": "aa7d7eb5064c3c09c8566b8e41c7c09c15d4d298c72d6245ede5ebdebae7d474",
+    "examples_AAC.csv": "891ef2f72cddd7db958ff82ddd1066349857d26431a3ff580037548f4936315b",
+    "examples_CTDC.csv": "91f1dd2d70179e7791acf287a23fe2e6c630096007bf7994d1c38a2d52704e2b",
+    "examples_CTDT.csv": "a6830f850fe4941124a052313e53bdcbcc8c2d2adca2d76c1bc3c724b4716d4e",
+    "examples_DPC.csv": "df91aab004f19119324c085bf4770f5cf81667e137ff8df54b030ba913b77ff0",
+    "examples_QSO.csv": "2d096a1d68b361904a9412b94bce18b3bb005051c3cf255afa25840291de9857",
+    "feature_dictionary.csv": "289004ea5fc9e2e10d11a4144daa0fd31d46c5b14ca689389cac66f202b0ec96",
+    "negative_AAC.csv": "0a5faa9bdd916bb45e734397e6ffa461968806a65d4f3d67d6b1f4e6cbc45184",
+    "negative_CTDC.csv": "3c3ec5beb477d5fc90da6209964da1eea51e652dfd021d2cf3a4fead39c3670e",
+    "negative_CTDT.csv": "42ab3b0472c7bec4ba23f76acdbed0e28317be60139a804d82c591dfec0e0e86",
+    "negative_DPC.csv": "31f0091bea13c0d7113791702f5c037fc2266b93ea6c2b00a1b2a982d984f86d",
+    "negative_QSO.csv": "629ad1a6c96fa2ebb997a960860c567a8eb334deaf5867dca6b03651a32aa2b4",
+    "negative_features.csv": "990c43304ccac2a251beedea72d612fc21a4da13a1720fc17f9eb4a0846decba",
+    "positive_AAC.csv": "452ce3ec02a9d10471b6c1c84f16a645f0527a9bab85b23c9c3559fd8d14ecd6",
+    "positive_CTDC.csv": "b9d835c9ae55568ece845c4b136dc704578b704722c946605657db1e7ce31014",
+    "positive_CTDT.csv": "ff467a11e185970c3d1ac45f1a32fbd1e8293c423e267574905ecfd12364a99b",
+    "positive_DPC.csv": "e458123434ddea8eabcc869c166e7962a8807c4aad29f2dca3a254748d47f39b",
+    "positive_QSO.csv": "95b5383fbd57463c32cd2d1263ae4b053b1dee29b1d133acd26fa7aca3005310",
+    "positive_features.csv": "b44453db3158f52418119a7dc8da44d6a3ba169721b2a64627b2d0136f2fcddd",
+    "sequences.csv": "90eac491c43d42c8e6c1e3662775a60978ad8cc59f3e3023f6350e345d7aafe7"
+  },
+  "validation": "formula tests, feature invariants, CSV round-trip passed"
+}

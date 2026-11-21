@@ -1,0 +1,563 @@
+﻿feature,block,definition,unit
+AAC_A,AAC,Частота остатка A: n/N,dimensionless
+AAC_C,AAC,Частота остатка C: n/N,dimensionless
+AAC_D,AAC,Частота остатка D: n/N,dimensionless
+AAC_E,AAC,Частота остатка E: n/N,dimensionless
+AAC_F,AAC,Частота остатка F: n/N,dimensionless
+AAC_G,AAC,Частота остатка G: n/N,dimensionless
+AAC_H,AAC,Частота остатка H: n/N,dimensionless
+AAC_I,AAC,Частота остатка I: n/N,dimensionless
+AAC_K,AAC,Частота остатка K: n/N,dimensionless
+AAC_L,AAC,Частота остатка L: n/N,dimensionless
+AAC_M,AAC,Частота остатка M: n/N,dimensionless
+AAC_N,AAC,Частота остатка N: n/N,dimensionless
+AAC_P,AAC,Частота остатка P: n/N,dimensionless
+AAC_Q,AAC,Частота остатка Q: n/N,dimensionless
+AAC_R,AAC,Частота остатка R: n/N,dimensionless
+AAC_S,AAC,Частота остатка S: n/N,dimensionless
+AAC_T,AAC,Частота остатка T: n/N,dimensionless
+AAC_V,AAC,Частота остатка V: n/N,dimensionless
+AAC_W,AAC,Частота остатка W: n/N,dimensionless
+AAC_Y,AAC,Частота остатка Y: n/N,dimensionless
+DPC_AA,DPC,Частота пары AA с перекрытиями: n/(N-1),dimensionless
+DPC_AC,DPC,Частота пары AC с перекрытиями: n/(N-1),dimensionless
+DPC_AD,DPC,Частота пары AD с перекрытиями: n/(N-1),dimensionless
+DPC_AE,DPC,Частота пары AE с перекрытиями: n/(N-1),dimensionless
+DPC_AF,DPC,Частота пары AF с перекрытиями: n/(N-1),dimensionless
+DPC_AG,DPC,Частота пары AG с перекрытиями: n/(N-1),dimensionless
+DPC_AH,DPC,Частота пары AH с перекрытиями: n/(N-1),dimensionless
+DPC_AI,DPC,Частота пары AI с перекрытиями: n/(N-1),dimensionless
+DPC_AK,DPC,Частота пары AK с перекрытиями: n/(N-1),dimensionless
+DPC_AL,DPC,Частота пары AL с перекрытиями: n/(N-1),dimensionless
+DPC_AM,DPC,Частота пары AM с перекрытиями: n/(N-1),dimensionless
+DPC_AN,DPC,Частота пары AN с перекрытиями: n/(N-1),dimensionless
+DPC_AP,DPC,Частота пары AP с перекрытиями: n/(N-1),dimensionless
+DPC_AQ,DPC,Частота пары AQ с перекрытиями: n/(N-1),dimensionless
+DPC_AR,DPC,Частота пары AR с перекрытиями: n/(N-1),dimensionless
+DPC_AS,DPC,Частота пары AS с перекрытиями: n/(N-1),dimensionless
+DPC_AT,DPC,Частота пары AT с перекрытиями: n/(N-1),dimensionless
+DPC_AV,DPC,Частота пары AV с перекрытиями: n/(N-1),dimensionless
+DPC_AW,DPC,Частота пары AW с перекрытиями: n/(N-1),dimensionless
+DPC_AY,DPC,Частота пары AY с перекрытиями: n/(N-1),dimensionless
+DPC_CA,DPC,Частота пары CA с перекрытиями: n/(N-1),dimensionless
+DPC_CC,DPC,Частота пары CC с перекрытиями: n/(N-1),dimensionless
+DPC_CD,DPC,Частота пары CD с перекрытиями: n/(N-1),dimensionless
+DPC_CE,DPC,Частота пары CE с перекрытиями: n/(N-1),dimensionless
+DPC_CF,DPC,Частота пары CF с перекрытиями: n/(N-1),dimensionless
+DPC_CG,DPC,Частота пары CG с перекрытиями: n/(N-1),dimensionless
+DPC_CH,DPC,Частота пары CH с перекрытиями: n/(N-1),dimensionless
+DPC_CI,DPC,Частота пары CI с перекрытиями: n/(N-1),dimensionless
+DPC_CK,DPC,Частота пары CK с перекрытиями: n/(N-1),dimensionless
+DPC_CL,DPC,Частота пары CL с перекрытиями: n/(N-1),dimensionless
+DPC_CM,DPC,Частота пары CM с перекрытиями: n/(N-1),dimensionless
+DPC_CN,DPC,Частота пары CN с перекрытиями: n/(N-1),dimensionless
+DPC_CP,DPC,Частота пары CP с перекрытиями: n/(N-1),dimensionless
+DPC_CQ,DPC,Частота пары CQ с перекрытиями: n/(N-1),dimensionless
+DPC_CR,DPC,Частота пары CR с перекрытиями: n/(N-1),dimensionless
+DPC_CS,DPC,Частота пары CS с перекрытиями: n/(N-1),dimensionless
+DPC_CT,DPC,Частота пары CT с перекрытиями: n/(N-1),dimensionless
+DPC_CV,DPC,Частота пары CV с перекрытиями: n/(N-1),dimensionless
+DPC_CW,DPC,Частота пары CW с перекрытиями: n/(N-1),dimensionless
+DPC_CY,DPC,Частота пары CY с перекрытиями: n/(N-1),dimensionless
+DPC_DA,DPC,Частота пары DA с перекрытиями: n/(N-1),dimensionless
+DPC_DC,DPC,Частота пары DC с перекрытиями: n/(N-1),dimensionless
+DPC_DD,DPC,Частота пары DD с перекрытиями: n/(N-1),dimensionless
+DPC_DE,DPC,Частота пары DE с перекрытиями: n/(N-1),dimensionless
+DPC_DF,DPC,Частота пары DF с перекрытиями: n/(N-1),dimensionless
+DPC_DG,DPC,Частота пары DG с перекрытиями: n/(N-1),dimensionless
+DPC_DH,DPC,Частота пары DH с перекрытиями: n/(N-1),dimensionless
+DPC_DI,DPC,Частота пары DI с перекрытиями: n/(N-1),dimensionless
+DPC_DK,DPC,Частота пары DK с перекрытиями: n/(N-1),dimensionless
+DPC_DL,DPC,Частота пары DL с перекрытиями: n/(N-1),dimensionless
+DPC_DM,DPC,Частота пары DM с перекрытиями: n/(N-1),dimensionless
+DPC_DN,DPC,Частота пары DN с перекрытиями: n/(N-1),dimensionless
+DPC_DP,DPC,Частота пары DP с перекрытиями: n/(N-1),dimensionless
+DPC_DQ,DPC,Частота пары DQ с перекрытиями: n/(N-1),dimensionless
+DPC_DR,DPC,Частота пары DR с перекрытиями: n/(N-1),dimensionless
+DPC_DS,DPC,Частота пары DS с перекрытиями: n/(N-1),dimensionless
+DPC_DT,DPC,Частота пары DT с перекрытиями: n/(N-1),dimensionless
+DPC_DV,DPC,Частота пары DV с перекрытиями: n/(N-1),dimensionless
+DPC_DW,DPC,Частота пары DW с перекрытиями: n/(N-1),dimensionless
+DPC_DY,DPC,Частота пары DY с перекрытиями: n/(N-1),dimensionless
+DPC_EA,DPC,Частота пары EA с перекрытиями: n/(N-1),dimensionless
+DPC_EC,DPC,Частота пары EC с перекрытиями: n/(N-1),dimensionless
+DPC_ED,DPC,Частота пары ED с перекрытиями: n/(N-1),dimensionless
+DPC_EE,DPC,Частота пары EE с перекрытиями: n/(N-1),dimensionless
+DPC_EF,DPC,Частота пары EF с перекрытиями: n/(N-1),dimensionless
+DPC_EG,DPC,Частота пары EG с перекрытиями: n/(N-1),dimensionless
+DPC_EH,DPC,Частота пары EH с перекрытиями: n/(N-1),dimensionless
+DPC_EI,DPC,Частота пары EI с перекрытиями: n/(N-1),dimensionless
+DPC_EK,DPC,Частота пары EK с перекрытиями: n/(N-1),dimensionless
+DPC_EL,DPC,Частота пары EL с перекрытиями: n/(N-1),dimensionless
+DPC_EM,DPC,Частота пары EM с перекрытиями: n/(N-1),dimensionless
+DPC_EN,DPC,Частота пары EN с перекрытиями: n/(N-1),dimensionless
+DPC_EP,DPC,Частота пары EP с перекрытиями: n/(N-1),dimensionless
+DPC_EQ,DPC,Частота пары EQ с перекрытиями: n/(N-1),dimensionless
+DPC_ER,DPC,Частота пары ER с перекрытиями: n/(N-1),dimensionless
+DPC_ES,DPC,Частота пары ES с перекрытиями: n/(N-1),dimensionless
+DPC_ET,DPC,Частота пары ET с перекрытиями: n/(N-1),dimensionless
+DPC_EV,DPC,Частота пары EV с перекрытиями: n/(N-1),dimensionless
+DPC_EW,DPC,Частота пары EW с перекрытиями: n/(N-1),dimensionless
+DPC_EY,DPC,Частота пары EY с перекрытиями: n/(N-1),dimensionless
+DPC_FA,DPC,Частота пары FA с перекрытиями: n/(N-1),dimensionless
+DPC_FC,DPC,Частота пары FC с перекрытиями: n/(N-1),dimensionless
+DPC_FD,DPC,Частота пары FD с перекрытиями: n/(N-1),dimensionless
+DPC_FE,DPC,Частота пары FE с перекрытиями: n/(N-1),dimensionless
+DPC_FF,DPC,Частота пары FF с перекрытиями: n/(N-1),dimensionless
+DPC_FG,DPC,Частота пары FG с перекрытиями: n/(N-1),dimensionless
+DPC_FH,DPC,Частота пары FH с перекрытиями: n/(N-1),dimensionless
+DPC_FI,DPC,Частота пары FI с перекрытиями: n/(N-1),dimensionless
+DPC_FK,DPC,Частота пары FK с перекрытиями: n/(N-1),dimensionless
+DPC_FL,DPC,Частота пары FL с перекрытиями: n/(N-1),dimensionless
+DPC_FM,DPC,Частота пары FM с перекрытиями: n/(N-1),dimensionless
+DPC_FN,DPC,Частота пары FN с перекрытиями: n/(N-1),dimensionless
+DPC_FP,DPC,Частота пары FP с перекрытиями: n/(N-1),dimensionless
+DPC_FQ,DPC,Частота пары FQ с перекрытиями: n/(N-1),dimensionless
+DPC_FR,DPC,Частота пары FR с перекрытиями: n/(N-1),dimensionless
+DPC_FS,DPC,Частота пары FS с перекрытиями: n/(N-1),dimensionless
+DPC_FT,DPC,Частота пары FT с перекрытиями: n/(N-1),dimensionless
+DPC_FV,DPC,Частота пары FV с перекрытиями: n/(N-1),dimensionless
+DPC_FW,DPC,Частота пары FW с перекрытиями: n/(N-1),dimensionless
+DPC_FY,DPC,Частота пары FY с перекрытиями: n/(N-1),dimensionless
+DPC_GA,DPC,Частота пары GA с перекрытиями: n/(N-1),dimensionless
+DPC_GC,DPC,Частота пары GC с перекрытиями: n/(N-1),dimensionless
+DPC_GD,DPC,Частота пары GD с перекрытиями: n/(N-1),dimensionless
+DPC_GE,DPC,Частота пары GE с перекрытиями: n/(N-1),dimensionless
+DPC_GF,DPC,Частота пары GF с перекрытиями: n/(N-1),dimensionless
+DPC_GG,DPC,Частота пары GG с перекрытиями: n/(N-1),dimensionless
+DPC_GH,DPC,Частота пары GH с перекрытиями: n/(N-1),dimensionless
+DPC_GI,DPC,Частота пары GI с перекрытиями: n/(N-1),dimensionless
+DPC_GK,DPC,Частота пары GK с перекрытиями: n/(N-1),dimensionless
+DPC_GL,DPC,Частота пары GL с перекрытиями: n/(N-1),dimensionless
+DPC_GM,DPC,Частота пары GM с перекрытиями: n/(N-1),dimensionless
+DPC_GN,DPC,Частота пары GN с перекрытиями: n/(N-1),dimensionless
+DPC_GP,DPC,Частота пары GP с перекрытиями: n/(N-1),dimensionless
+DPC_GQ,DPC,Частота пары GQ с перекрытиями: n/(N-1),dimensionless
+DPC_GR,DPC,Частота пары GR с перекрытиями: n/(N-1),dimensionless
+DPC_GS,DPC,Частота пары GS с перекрытиями: n/(N-1),dimensionless
+DPC_GT,DPC,Частота пары GT с перекрытиями: n/(N-1),dimensionless
+DPC_GV,DPC,Частота пары GV с перекрытиями: n/(N-1),dimensionless
+DPC_GW,DPC,Частота пары GW с перекрытиями: n/(N-1),dimensionless
+DPC_GY,DPC,Частота пары GY с перекрытиями: n/(N-1),dimensionless
+DPC_HA,DPC,Частота пары HA с перекрытиями: n/(N-1),dimensionless
+DPC_HC,DPC,Частота пары HC с перекрытиями: n/(N-1),dimensionless
+DPC_HD,DPC,Частота пары HD с перекрытиями: n/(N-1),dimensionless
+DPC_HE,DPC,Частота пары HE с перекрытиями: n/(N-1),dimensionless
+DPC_HF,DPC,Частота пары HF с перекрытиями: n/(N-1),dimensionless
+DPC_HG,DPC,Частота пары HG с перекрытиями: n/(N-1),dimensionless
+DPC_HH,DPC,Частота пары HH с перекрытиями: n/(N-1),dimensionless
+DPC_HI,DPC,Частота пары HI с перекрытиями: n/(N-1),dimensionless
+DPC_HK,DPC,Частота пары HK с перекрытиями: n/(N-1),dimensionless
+DPC_HL,DPC,Частота пары HL с перекрытиями: n/(N-1),dimensionless
+DPC_HM,DPC,Частота пары HM с перекрытиями: n/(N-1),dimensionless
+DPC_HN,DPC,Частота пары HN с перекрытиями: n/(N-1),dimensionless
+DPC_HP,DPC,Частота пары HP с перекрытиями: n/(N-1),dimensionless
+DPC_HQ,DPC,Частота пары HQ с перекрытиями: n/(N-1),dimensionless
+DPC_HR,DPC,Частота пары HR с перекрытиями: n/(N-1),dimensionless
+DPC_HS,DPC,Частота пары HS с перекрытиями: n/(N-1),dimensionless
+DPC_HT,DPC,Частота пары HT с перекрытиями: n/(N-1),dimensionless
+DPC_HV,DPC,Частота пары HV с перекрытиями: n/(N-1),dimensionless
+DPC_HW,DPC,Частота пары HW с перекрытиями: n/(N-1),dimensionless
+DPC_HY,DPC,Частота пары HY с перекрытиями: n/(N-1),dimensionless
+DPC_IA,DPC,Частота пары IA с перекрытиями: n/(N-1),dimensionless
+DPC_IC,DPC,Частота пары IC с перекрытиями: n/(N-1),dimensionless
+DPC_ID,DPC,Частота пары ID с перекрытиями: n/(N-1),dimensionless
+DPC_IE,DPC,Частота пары IE с перекрытиями: n/(N-1),dimensionless
+DPC_IF,DPC,Частота пары IF с перекрытиями: n/(N-1),dimensionless
+DPC_IG,DPC,Частота пары IG с перекрытиями: n/(N-1),dimensionless
+DPC_IH,DPC,Частота пары IH с перекрытиями: n/(N-1),dimensionless
+DPC_II,DPC,Частота пары II с перекрытиями: n/(N-1),dimensionless
+DPC_IK,DPC,Частота пары IK с перекрытиями: n/(N-1),dimensionless
+DPC_IL,DPC,Частота пары IL с перекрытиями: n/(N-1),dimensionless
+DPC_IM,DPC,Частота пары IM с перекрытиями: n/(N-1),dimensionless
+DPC_IN,DPC,Частота пары IN с перекрытиями: n/(N-1),dimensionless
+DPC_IP,DPC,Частота пары IP с перекрытиями: n/(N-1),dimensionless
+DPC_IQ,DPC,Частота пары IQ с перекрытиями: n/(N-1),dimensionless
+DPC_IR,DPC,Частота пары IR с перекрытиями: n/(N-1),dimensionless
+DPC_IS,DPC,Частота пары IS с перекрытиями: n/(N-1),dimensionless
+DPC_IT,DPC,Частота пары IT с перекрытиями: n/(N-1),dimensionless
+DPC_IV,DPC,Частота пары IV с перекрытиями: n/(N-1),dimensionless
+DPC_IW,DPC,Частота пары IW с перекрытиями: n/(N-1),dimensionless
+DPC_IY,DPC,Частота пары IY с перекрытиями: n/(N-1),dimensionless
+DPC_KA,DPC,Частота пары KA с перекрытиями: n/(N-1),dimensionless
+DPC_KC,DPC,Частота пары KC с перекрытиями: n/(N-1),dimensionless
+DPC_KD,DPC,Частота пары KD с перекрытиями: n/(N-1),dimensionless
+DPC_KE,DPC,Частота пары KE с перекрытиями: n/(N-1),dimensionless
+DPC_KF,DPC,Частота пары KF с перекрытиями: n/(N-1),dimensionless
+DPC_KG,DPC,Частота пары KG с перекрытиями: n/(N-1),dimensionless
+DPC_KH,DPC,Частота пары KH с перекрытиями: n/(N-1),dimensionless
+DPC_KI,DPC,Частота пары KI с перекрытиями: n/(N-1),dimensionless
+DPC_KK,DPC,Частота пары KK с перекрытиями: n/(N-1),dimensionless
+DPC_KL,DPC,Частота пары KL с перекрытиями: n/(N-1),dimensionless
+DPC_KM,DPC,Частота пары KM с перекрытиями: n/(N-1),dimensionless
+DPC_KN,DPC,Частота пары KN с перекрытиями: n/(N-1),dimensionless
+DPC_KP,DPC,Частота пары KP с перекрытиями: n/(N-1),dimensionless
+DPC_KQ,DPC,Частота пары KQ с перекрытиями: n/(N-1),dimensionless
+DPC_KR,DPC,Частота пары KR с перекрытиями: n/(N-1),dimensionless
+DPC_KS,DPC,Частота пары KS с перекрытиями: n/(N-1),dimensionless
+DPC_KT,DPC,Частота пары KT с перекрытиями: n/(N-1),dimensionless
+DPC_KV,DPC,Частота пары KV с перекрытиями: n/(N-1),dimensionless
+DPC_KW,DPC,Частота пары KW с перекрытиями: n/(N-1),dimensionless
+DPC_KY,DPC,Частота пары KY с перекрытиями: n/(N-1),dimensionless
+DPC_LA,DPC,Частота пары LA с перекрытиями: n/(N-1),dimensionless
+DPC_LC,DPC,Частота пары LC с перекрытиями: n/(N-1),dimensionless
+DPC_LD,DPC,Частота пары LD с перекрытиями: n/(N-1),dimensionless
+DPC_LE,DPC,Частота пары LE с перекрытиями: n/(N-1),dimensionless
+DPC_LF,DPC,Частота пары LF с перекрытиями: n/(N-1),dimensionless
+DPC_LG,DPC,Частота пары LG с перекрытиями: n/(N-1),dimensionless
+DPC_LH,DPC,Частота пары LH с перекрытиями: n/(N-1),dimensionless
+DPC_LI,DPC,Частота пары LI с перекрытиями: n/(N-1),dimensionless
+DPC_LK,DPC,Частота пары LK с перекрытиями: n/(N-1),dimensionless
+DPC_LL,DPC,Частота пары LL с перекрытиями: n/(N-1),dimensionless
+DPC_LM,DPC,Частота пары LM с перекрытиями: n/(N-1),dimensionless
+DPC_LN,DPC,Частота пары LN с перекрытиями: n/(N-1),dimensionless
+DPC_LP,DPC,Частота пары LP с перекрытиями: n/(N-1),dimensionless
+DPC_LQ,DPC,Частота пары LQ с перекрытиями: n/(N-1),dimensionless
+DPC_LR,DPC,Частота пары LR с перекрытиями: n/(N-1),dimensionless
+DPC_LS,DPC,Частота пары LS с перекрытиями: n/(N-1),dimensionless
+DPC_LT,DPC,Частота пары LT с перекрытиями: n/(N-1),dimensionless
+DPC_LV,DPC,Частота пары LV с перекрытиями: n/(N-1),dimensionless
+DPC_LW,DPC,Частота пары LW с перекрытиями: n/(N-1),dimensionless
+DPC_LY,DPC,Частота пары LY с перекрытиями: n/(N-1),dimensionless
+DPC_MA,DPC,Частота пары MA с перекрытиями: n/(N-1),dimensionless
+DPC_MC,DPC,Частота пары MC с перекрытиями: n/(N-1),dimensionless
+DPC_MD,DPC,Частота пары MD с перекрытиями: n/(N-1),dimensionless
+DPC_ME,DPC,Частота пары ME с перекрытиями: n/(N-1),dimensionless
+DPC_MF,DPC,Частота пары MF с перекрытиями: n/(N-1),dimensionless
+DPC_MG,DPC,Частота пары MG с перекрытиями: n/(N-1),dimensionless
+DPC_MH,DPC,Частота пары MH с перекрытиями: n/(N-1),dimensionless
+DPC_MI,DPC,Частота пары MI с перекрытиями: n/(N-1),dimensionless
+DPC_MK,DPC,Частота пары MK с перекрытиями: n/(N-1),dimensionless
+DPC_ML,DPC,Частота пары ML с перекрытиями: n/(N-1),dimensionless
+DPC_MM,DPC,Частота пары MM с перекрытиями: n/(N-1),dimensionless
+DPC_MN,DPC,Частота пары MN с перекрытиями: n/(N-1),dimensionless
+DPC_MP,DPC,Частота пары MP с перекрытиями: n/(N-1),dimensionless
+DPC_MQ,DPC,Частота пары MQ с перекрытиями: n/(N-1),dimensionless
+DPC_MR,DPC,Частота пары MR с перекрытиями: n/(N-1),dimensionless
+DPC_MS,DPC,Частота пары MS с перекрытиями: n/(N-1),dimensionless
+DPC_MT,DPC,Частота пары MT с перекрытиями: n/(N-1),dimensionless
+DPC_MV,DPC,Частота пары MV с перекрытиями: n/(N-1),dimensionless
+DPC_MW,DPC,Частота пары MW с перекрытиями: n/(N-1),dimensionless
+DPC_MY,DPC,Частота пары MY с перекрытиями: n/(N-1),dimensionless
+DPC_NA,DPC,Частота пары NA с перекрытиями: n/(N-1),dimensionless
+DPC_NC,DPC,Частота пары NC с перекрытиями: n/(N-1),dimensionless
+DPC_ND,DPC,Частота пары ND с перекрытиями: n/(N-1),dimensionless
+DPC_NE,DPC,Частота пары NE с перекрытиями: n/(N-1),dimensionless
+DPC_NF,DPC,Частота пары NF с перекрытиями: n/(N-1),dimensionless
+DPC_NG,DPC,Частота пары NG с перекрытиями: n/(N-1),dimensionless
+DPC_NH,DPC,Частота пары NH с перекрытиями: n/(N-1),dimensionless
+DPC_NI,DPC,Частота пары NI с перекрытиями: n/(N-1),dimensionless
+DPC_NK,DPC,Частота пары NK с перекрытиями: n/(N-1),dimensionless
+DPC_NL,DPC,Частота пары NL с перекрытиями: n/(N-1),dimensionless
+DPC_NM,DPC,Частота пары NM с перекрытиями: n/(N-1),dimensionless
+DPC_NN,DPC,Частота пары NN с перекрытиями: n/(N-1),dimensionless
+DPC_NP,DPC,Частота пары NP с перекрытиями: n/(N-1),dimensionless
+DPC_NQ,DPC,Частота пары NQ с перекрытиями: n/(N-1),dimensionless
+DPC_NR,DPC,Частота пары NR с перекрытиями: n/(N-1),dimensionless
+DPC_NS,DPC,Частота пары NS с перекрытиями: n/(N-1),dimensionless
+DPC_NT,DPC,Частота пары NT с перекрытиями: n/(N-1),dimensionless
+DPC_NV,DPC,Частота пары NV с перекрытиями: n/(N-1),dimensionless
+DPC_NW,DPC,Частота пары NW с перекрытиями: n/(N-1),dimensionless
+DPC_NY,DPC,Частота пары NY с перекрытиями: n/(N-1),dimensionless
+DPC_PA,DPC,Частота пары PA с перекрытиями: n/(N-1),dimensionless
+DPC_PC,DPC,Частота пары PC с перекрытиями: n/(N-1),dimensionless
+DPC_PD,DPC,Частота пары PD с перекрытиями: n/(N-1),dimensionless
+DPC_PE,DPC,Частота пары PE с перекрытиями: n/(N-1),dimensionless
+DPC_PF,DPC,Частота пары PF с перекрытиями: n/(N-1),dimensionless
+DPC_PG,DPC,Частота пары PG с перекрытиями: n/(N-1),dimensionless
+DPC_PH,DPC,Частота пары PH с перекрытиями: n/(N-1),dimensionless
+DPC_PI,DPC,Частота пары PI с перекрытиями: n/(N-1),dimensionless
+DPC_PK,DPC,Частота пары PK с перекрытиями: n/(N-1),dimensionless
+DPC_PL,DPC,Частота пары PL с перекрытиями: n/(N-1),dimensionless
+DPC_PM,DPC,Частота пары PM с перекрытиями: n/(N-1),dimensionless
+DPC_PN,DPC,Частота пары PN с перекрытиями: n/(N-1),dimensionless
+DPC_PP,DPC,Частота пары PP с перекрытиями: n/(N-1),dimensionless
+DPC_PQ,DPC,Частота пары PQ с перекрытиями: n/(N-1),dimensionless
+DPC_PR,DPC,Частота пары PR с перекрытиями: n/(N-1),dimensionless
+DPC_PS,DPC,Частота пары PS с перекрытиями: n/(N-1),dimensionless
+DPC_PT,DPC,Частота пары PT с перекрытиями: n/(N-1),dimensionless
+DPC_PV,DPC,Частота пары PV с перекрытиями: n/(N-1),dimensionless
+DPC_PW,DPC,Частота пары PW с перекрытиями: n/(N-1),dimensionless
+DPC_PY,DPC,Частота пары PY с перекрытиями: n/(N-1),dimensionless
+DPC_QA,DPC,Частота пары QA с перекрытиями: n/(N-1),dimensionless
+DPC_QC,DPC,Частота пары QC с перекрытиями: n/(N-1),dimensionless
+DPC_QD,DPC,Частота пары QD с перекрытиями: n/(N-1),dimensionless
+DPC_QE,DPC,Частота пары QE с перекрытиями: n/(N-1),dimensionless
+DPC_QF,DPC,Частота пары QF с перекрытиями: n/(N-1),dimensionless
+DPC_QG,DPC,Частота пары QG с перекрытиями: n/(N-1),dimensionless
+DPC_QH,DPC,Частота пары QH с перекрытиями: n/(N-1),dimensionless
+DPC_QI,DPC,Частота пары QI с перекрытиями: n/(N-1),dimensionless
+DPC_QK,DPC,Частота пары QK с перекрытиями: n/(N-1),dimensionless
+DPC_QL,DPC,Частота пары QL с перекрытиями: n/(N-1),dimensionless
+DPC_QM,DPC,Частота пары QM с перекрытиями: n/(N-1),dimensionless
+DPC_QN,DPC,Частота пары QN с перекрытиями: n/(N-1),dimensionless
+DPC_QP,DPC,Частота пары QP с перекрытиями: n/(N-1),dimensionless
+DPC_QQ,DPC,Частота пары QQ с перекрытиями: n/(N-1),dimensionless
+DPC_QR,DPC,Частота пары QR с перекрытиями: n/(N-1),dimensionless
+DPC_QS,DPC,Частота пары QS с перекрытиями: n/(N-1),dimensionless
+DPC_QT,DPC,Частота пары QT с перекрытиями: n/(N-1),dimensionless
+DPC_QV,DPC,Частота пары QV с перекрытиями: n/(N-1),dimensionless
+DPC_QW,DPC,Частота пары QW с перекрытиями: n/(N-1),dimensionless
+DPC_QY,DPC,Частота пары QY с перекрытиями: n/(N-1),dimensionless
+DPC_RA,DPC,Частота пары RA с перекрытиями: n/(N-1),dimensionless
+DPC_RC,DPC,Частота пары RC с перекрытиями: n/(N-1),dimensionless
+DPC_RD,DPC,Частота пары RD с перекрытиями: n/(N-1),dimensionless
+DPC_RE,DPC,Частота пары RE с перекрытиями: n/(N-1),dimensionless
+DPC_RF,DPC,Частота пары RF с перекрытиями: n/(N-1),dimensionless
+DPC_RG,DPC,Частота пары RG с перекрытиями: n/(N-1),dimensionless
+DPC_RH,DPC,Частота пары RH с перекрытиями: n/(N-1),dimensionless
+DPC_RI,DPC,Частота пары RI с перекрытиями: n/(N-1),dimensionless
+DPC_RK,DPC,Частота пары RK с перекрытиями: n/(N-1),dimensionless
+DPC_RL,DPC,Частота пары RL с перекрытиями: n/(N-1),dimensionless
+DPC_RM,DPC,Частота пары RM с перекрытиями: n/(N-1),dimensionless
+DPC_RN,DPC,Частота пары RN с перекрытиями: n/(N-1),dimensionless
+DPC_RP,DPC,Частота пары RP с перекрытиями: n/(N-1),dimensionless
+DPC_RQ,DPC,Частота пары RQ с перекрытиями: n/(N-1),dimensionless
+DPC_RR,DPC,Частота пары RR с перекрытиями: n/(N-1),dimensionless
+DPC_RS,DPC,Частота пары RS с перекрытиями: n/(N-1),dimensionless
+DPC_RT,DPC,Частота пары RT с перекрытиями: n/(N-1),dimensionless
+DPC_RV,DPC,Частота пары RV с перекрытиями: n/(N-1),dimensionless
+DPC_RW,DPC,Частота пары RW с перекрытиями: n/(N-1),dimensionless
+DPC_RY,DPC,Частота пары RY с перекрытиями: n/(N-1),dimensionless
+DPC_SA,DPC,Частота пары SA с перекрытиями: n/(N-1),dimensionless
+DPC_SC,DPC,Частота пары SC с перекрытиями: n/(N-1),dimensionless
+DPC_SD,DPC,Частота пары SD с перекрытиями: n/(N-1),dimensionless
+DPC_SE,DPC,Частота пары SE с перекрытиями: n/(N-1),dimensionless
+DPC_SF,DPC,Частота пары SF с перекрытиями: n/(N-1),dimensionless
+DPC_SG,DPC,Частота пары SG с перекрытиями: n/(N-1),dimensionless
+DPC_SH,DPC,Частота пары SH с перекрытиями: n/(N-1),dimensionless
+DPC_SI,DPC,Частота пары SI с перекрытиями: n/(N-1),dimensionless
+DPC_SK,DPC,Частота пары SK с перекрытиями: n/(N-1),dimensionless
+DPC_SL,DPC,Частота пары SL с перекрытиями: n/(N-1),dimensionless
+DPC_SM,DPC,Частота пары SM с перекрытиями: n/(N-1),dimensionless
+DPC_SN,DPC,Частота пары SN с перекрытиями: n/(N-1),dimensionless
+DPC_SP,DPC,Частота пары SP с перекрытиями: n/(N-1),dimensionless
+DPC_SQ,DPC,Частота пары SQ с перекрытиями: n/(N-1),dimensionless
+DPC_SR,DPC,Частота пары SR с перекрытиями: n/(N-1),dimensionless
+DPC_SS,DPC,Частота пары SS с перекрытиями: n/(N-1),dimensionless
+DPC_ST,DPC,Частота пары ST с перекрытиями: n/(N-1),dimensionless
+DPC_SV,DPC,Частота пары SV с перекрытиями: n/(N-1),dimensionless
+DPC_SW,DPC,Частота пары SW с перекрытиями: n/(N-1),dimensionless
+DPC_SY,DPC,Частота пары SY с перекрытиями: n/(N-1),dimensionless
+DPC_TA,DPC,Частота пары TA с перекрытиями: n/(N-1),dimensionless
+DPC_TC,DPC,Частота пары TC с перекрытиями: n/(N-1),dimensionless
+DPC_TD,DPC,Частота пары TD с перекрытиями: n/(N-1),dimensionless
+DPC_TE,DPC,Частота пары TE с перекрытиями: n/(N-1),dimensionless
+DPC_TF,DPC,Частота пары TF с перекрытиями: n/(N-1),dimensionless
+DPC_TG,DPC,Частота пары TG с перекрытиями: n/(N-1),dimensionless
+DPC_TH,DPC,Частота пары TH с перекрытиями: n/(N-1),dimensionless
+DPC_TI,DPC,Частота пары TI с перекрытиями: n/(N-1),dimensionless
+DPC_TK,DPC,Частота пары TK с перекрытиями: n/(N-1),dimensionless
+DPC_TL,DPC,Частота пары TL с перекрытиями: n/(N-1),dimensionless
+DPC_TM,DPC,Частота пары TM с перекрытиями: n/(N-1),dimensionless
+DPC_TN,DPC,Частота пары TN с перекрытиями: n/(N-1),dimensionless
+DPC_TP,DPC,Частота пары TP с перекрытиями: n/(N-1),dimensionless
+DPC_TQ,DPC,Частота пары TQ с перекрытиями: n/(N-1),dimensionless
+DPC_TR,DPC,Частота пары TR с перекрытиями: n/(N-1),dimensionless
+DPC_TS,DPC,Частота пары TS с перекрытиями: n/(N-1),dimensionless
+DPC_TT,DPC,Частота пары TT с перекрытиями: n/(N-1),dimensionless
+DPC_TV,DPC,Частота пары TV с перекрытиями: n/(N-1),dimensionless
+DPC_TW,DPC,Частота пары TW с перекрытиями: n/(N-1),dimensionless
+DPC_TY,DPC,Частота пары TY с перекрытиями: n/(N-1),dimensionless
+DPC_VA,DPC,Частота пары VA с перекрытиями: n/(N-1),dimensionless
+DPC_VC,DPC,Частота пары VC с перекрытиями: n/(N-1),dimensionless
+DPC_VD,DPC,Частота пары VD с перекрытиями: n/(N-1),dimensionless
+DPC_VE,DPC,Частота пары VE с перекрытиями: n/(N-1),dimensionless
+DPC_VF,DPC,Частота пары VF с перекрытиями: n/(N-1),dimensionless
+DPC_VG,DPC,Частота пары VG с перекрытиями: n/(N-1),dimensionless
+DPC_VH,DPC,Частота пары VH с перекрытиями: n/(N-1),dimensionless
+DPC_VI,DPC,Частота пары VI с перекрытиями: n/(N-1),dimensionless
+DPC_VK,DPC,Частота пары VK с перекрытиями: n/(N-1),dimensionless
+DPC_VL,DPC,Частота пары VL с перекрытиями: n/(N-1),dimensionless
+DPC_VM,DPC,Частота пары VM с перекрытиями: n/(N-1),dimensionless
+DPC_VN,DPC,Частота пары VN с перекрытиями: n/(N-1),dimensionless
+DPC_VP,DPC,Частота пары VP с перекрытиями: n/(N-1),dimensionless
+DPC_VQ,DPC,Частота пары VQ с перекрытиями: n/(N-1),dimensionless
+DPC_VR,DPC,Частота пары VR с перекрытиями: n/(N-1),dimensionless
+DPC_VS,DPC,Частота пары VS с перекрытиями: n/(N-1),dimensionless
+DPC_VT,DPC,Частота пары VT с перекрытиями: n/(N-1),dimensionless
+DPC_VV,DPC,Частота пары VV с перекрытиями: n/(N-1),dimensionless
+DPC_VW,DPC,Частота пары VW с перекрытиями: n/(N-1),dimensionless
+DPC_VY,DPC,Частота пары VY с перекрытиями: n/(N-1),dimensionless
+DPC_WA,DPC,Частота пары WA с перекрытиями: n/(N-1),dimensionless
+DPC_WC,DPC,Частота пары WC с перекрытиями: n/(N-1),dimensionless
+DPC_WD,DPC,Частота пары WD с перекрытиями: n/(N-1),dimensionless
+DPC_WE,DPC,Частота пары WE с перекрытиями: n/(N-1),dimensionless
+DPC_WF,DPC,Частота пары WF с перекрытиями: n/(N-1),dimensionless
+DPC_WG,DPC,Частота пары WG с перекрытиями: n/(N-1),dimensionless
+DPC_WH,DPC,Частота пары WH с перекрытиями: n/(N-1),dimensionless
+DPC_WI,DPC,Частота пары WI с перекрытиями: n/(N-1),dimensionless
+DPC_WK,DPC,Частота пары WK с перекрытиями: n/(N-1),dimensionless
+DPC_WL,DPC,Частота пары WL с перекрытиями: n/(N-1),dimensionless
+DPC_WM,DPC,Частота пары WM с перекрытиями: n/(N-1),dimensionless
+DPC_WN,DPC,Частота пары WN с перекрытиями: n/(N-1),dimensionless
+DPC_WP,DPC,Частота пары WP с перекрытиями: n/(N-1),dimensionless
+DPC_WQ,DPC,Частота пары WQ с перекрытиями: n/(N-1),dimensionless
+DPC_WR,DPC,Частота пары WR с перекрытиями: n/(N-1),dimensionless
+DPC_WS,DPC,Частота пары WS с перекрытиями: n/(N-1),dimensionless
+DPC_WT,DPC,Частота пары WT с перекрытиями: n/(N-1),dimensionless
+DPC_WV,DPC,Частота пары WV с перекрытиями: n/(N-1),dimensionless
+DPC_WW,DPC,Частота пары WW с перекрытиями: n/(N-1),dimensionless
+DPC_WY,DPC,Частота пары WY с перекрытиями: n/(N-1),dimensionless
+DPC_YA,DPC,Частота пары YA с перекрытиями: n/(N-1),dimensionless
+DPC_YC,DPC,Частота пары YC с перекрытиями: n/(N-1),dimensionless
+DPC_YD,DPC,Частота пары YD с перекрытиями: n/(N-1),dimensionless
+DPC_YE,DPC,Частота пары YE с перекрытиями: n/(N-1),dimensionless
+DPC_YF,DPC,Частота пары YF с перекрытиями: n/(N-1),dimensionless
+DPC_YG,DPC,Частота пары YG с перекрытиями: n/(N-1),dimensionless
+DPC_YH,DPC,Частота пары YH с перекрытиями: n/(N-1),dimensionless
+DPC_YI,DPC,Частота пары YI с перекрытиями: n/(N-1),dimensionless
+DPC_YK,DPC,Частота пары YK с перекрытиями: n/(N-1),dimensionless
+DPC_YL,DPC,Частота пары YL с перекрытиями: n/(N-1),dimensionless
+DPC_YM,DPC,Частота пары YM с перекрытиями: n/(N-1),dimensionless
+DPC_YN,DPC,Частота пары YN с перекрытиями: n/(N-1),dimensionless
+DPC_YP,DPC,Частота пары YP с перекрытиями: n/(N-1),dimensionless
+DPC_YQ,DPC,Частота пары YQ с перекрытиями: n/(N-1),dimensionless
+DPC_YR,DPC,Частота пары YR с перекрытиями: n/(N-1),dimensionless
+DPC_YS,DPC,Частота пары YS с перекрытиями: n/(N-1),dimensionless
+DPC_YT,DPC,Частота пары YT с перекрытиями: n/(N-1),dimensionless
+DPC_YV,DPC,Частота пары YV с перекрытиями: n/(N-1),dimensionless
+DPC_YW,DPC,Частота пары YW с перекрытиями: n/(N-1),dimensionless
+DPC_YY,DPC,Частота пары YY с перекрытиями: n/(N-1),dimensionless
+QSO_SW_AAC_A,QSO,SW: f(A)/D,dimensionless
+QSO_SW_AAC_C,QSO,SW: f(C)/D,dimensionless
+QSO_SW_AAC_D,QSO,SW: f(D)/D,dimensionless
+QSO_SW_AAC_E,QSO,SW: f(E)/D,dimensionless
+QSO_SW_AAC_F,QSO,SW: f(F)/D,dimensionless
+QSO_SW_AAC_G,QSO,SW: f(G)/D,dimensionless
+QSO_SW_AAC_H,QSO,SW: f(H)/D,dimensionless
+QSO_SW_AAC_I,QSO,SW: f(I)/D,dimensionless
+QSO_SW_AAC_K,QSO,SW: f(K)/D,dimensionless
+QSO_SW_AAC_L,QSO,SW: f(L)/D,dimensionless
+QSO_SW_AAC_M,QSO,SW: f(M)/D,dimensionless
+QSO_SW_AAC_N,QSO,SW: f(N)/D,dimensionless
+QSO_SW_AAC_P,QSO,SW: f(P)/D,dimensionless
+QSO_SW_AAC_Q,QSO,SW: f(Q)/D,dimensionless
+QSO_SW_AAC_R,QSO,SW: f(R)/D,dimensionless
+QSO_SW_AAC_S,QSO,SW: f(S)/D,dimensionless
+QSO_SW_AAC_T,QSO,SW: f(T)/D,dimensionless
+QSO_SW_AAC_V,QSO,SW: f(V)/D,dimensionless
+QSO_SW_AAC_W,QSO,SW: f(W)/D,dimensionless
+QSO_SW_AAC_Y,QSO,SW: f(Y)/D,dimensionless
+QSO_SW_lag_01,QSO,SW: weight*tau(1)/D,dimensionless
+QSO_SW_lag_02,QSO,SW: weight*tau(2)/D,dimensionless
+QSO_SW_lag_03,QSO,SW: weight*tau(3)/D,dimensionless
+QSO_SW_lag_04,QSO,SW: weight*tau(4)/D,dimensionless
+QSO_SW_lag_05,QSO,SW: weight*tau(5)/D,dimensionless
+QSO_SW_lag_06,QSO,SW: weight*tau(6)/D,dimensionless
+QSO_SW_lag_07,QSO,SW: weight*tau(7)/D,dimensionless
+QSO_SW_lag_08,QSO,SW: weight*tau(8)/D,dimensionless
+QSO_SW_lag_09,QSO,SW: weight*tau(9)/D,dimensionless
+QSO_SW_lag_10,QSO,SW: weight*tau(10)/D,dimensionless
+QSO_SW_lag_11,QSO,SW: weight*tau(11)/D,dimensionless
+QSO_SW_lag_12,QSO,SW: weight*tau(12)/D,dimensionless
+QSO_SW_lag_13,QSO,SW: weight*tau(13)/D,dimensionless
+QSO_SW_lag_14,QSO,SW: weight*tau(14)/D,dimensionless
+QSO_SW_lag_15,QSO,SW: weight*tau(15)/D,dimensionless
+QSO_SW_lag_16,QSO,SW: weight*tau(16)/D,dimensionless
+QSO_SW_lag_17,QSO,SW: weight*tau(17)/D,dimensionless
+QSO_SW_lag_18,QSO,SW: weight*tau(18)/D,dimensionless
+QSO_SW_lag_19,QSO,SW: weight*tau(19)/D,dimensionless
+QSO_SW_lag_20,QSO,SW: weight*tau(20)/D,dimensionless
+QSO_SW_lag_21,QSO,SW: weight*tau(21)/D,dimensionless
+QSO_SW_lag_22,QSO,SW: weight*tau(22)/D,dimensionless
+QSO_SW_lag_23,QSO,SW: weight*tau(23)/D,dimensionless
+QSO_SW_lag_24,QSO,SW: weight*tau(24)/D,dimensionless
+QSO_SW_lag_25,QSO,SW: weight*tau(25)/D,dimensionless
+QSO_SW_lag_26,QSO,SW: weight*tau(26)/D,dimensionless
+QSO_SW_lag_27,QSO,SW: weight*tau(27)/D,dimensionless
+QSO_SW_lag_28,QSO,SW: weight*tau(28)/D,dimensionless
+QSO_SW_lag_29,QSO,SW: weight*tau(29)/D,dimensionless
+QSO_SW_lag_30,QSO,SW: weight*tau(30)/D,dimensionless
+QSO_Grantham_AAC_A,QSO,Grantham: f(A)/D,dimensionless
+QSO_Grantham_AAC_C,QSO,Grantham: f(C)/D,dimensionless
+QSO_Grantham_AAC_D,QSO,Grantham: f(D)/D,dimensionless
+QSO_Grantham_AAC_E,QSO,Grantham: f(E)/D,dimensionless
+QSO_Grantham_AAC_F,QSO,Grantham: f(F)/D,dimensionless
+QSO_Grantham_AAC_G,QSO,Grantham: f(G)/D,dimensionless
+QSO_Grantham_AAC_H,QSO,Grantham: f(H)/D,dimensionless
+QSO_Grantham_AAC_I,QSO,Grantham: f(I)/D,dimensionless
+QSO_Grantham_AAC_K,QSO,Grantham: f(K)/D,dimensionless
+QSO_Grantham_AAC_L,QSO,Grantham: f(L)/D,dimensionless
+QSO_Grantham_AAC_M,QSO,Grantham: f(M)/D,dimensionless
+QSO_Grantham_AAC_N,QSO,Grantham: f(N)/D,dimensionless
+QSO_Grantham_AAC_P,QSO,Grantham: f(P)/D,dimensionless
+QSO_Grantham_AAC_Q,QSO,Grantham: f(Q)/D,dimensionless
+QSO_Grantham_AAC_R,QSO,Grantham: f(R)/D,dimensionless
+QSO_Grantham_AAC_S,QSO,Grantham: f(S)/D,dimensionless
+QSO_Grantham_AAC_T,QSO,Grantham: f(T)/D,dimensionless
+QSO_Grantham_AAC_V,QSO,Grantham: f(V)/D,dimensionless
+QSO_Grantham_AAC_W,QSO,Grantham: f(W)/D,dimensionless
+QSO_Grantham_AAC_Y,QSO,Grantham: f(Y)/D,dimensionless
+QSO_Grantham_lag_01,QSO,Grantham: weight*tau(1)/D,dimensionless
+QSO_Grantham_lag_02,QSO,Grantham: weight*tau(2)/D,dimensionless
+QSO_Grantham_lag_03,QSO,Grantham: weight*tau(3)/D,dimensionless
+QSO_Grantham_lag_04,QSO,Grantham: weight*tau(4)/D,dimensionless
+QSO_Grantham_lag_05,QSO,Grantham: weight*tau(5)/D,dimensionless
+QSO_Grantham_lag_06,QSO,Grantham: weight*tau(6)/D,dimensionless
+QSO_Grantham_lag_07,QSO,Grantham: weight*tau(7)/D,dimensionless
+QSO_Grantham_lag_08,QSO,Grantham: weight*tau(8)/D,dimensionless
+QSO_Grantham_lag_09,QSO,Grantham: weight*tau(9)/D,dimensionless
+QSO_Grantham_lag_10,QSO,Grantham: weight*tau(10)/D,dimensionless
+QSO_Grantham_lag_11,QSO,Grantham: weight*tau(11)/D,dimensionless
+QSO_Grantham_lag_12,QSO,Grantham: weight*tau(12)/D,dimensionless
+QSO_Grantham_lag_13,QSO,Grantham: weight*tau(13)/D,dimensionless
+QSO_Grantham_lag_14,QSO,Grantham: weight*tau(14)/D,dimensionless
+QSO_Grantham_lag_15,QSO,Grantham: weight*tau(15)/D,dimensionless
+QSO_Grantham_lag_16,QSO,Grantham: weight*tau(16)/D,dimensionless
+QSO_Grantham_lag_17,QSO,Grantham: weight*tau(17)/D,dimensionless
+QSO_Grantham_lag_18,QSO,Grantham: weight*tau(18)/D,dimensionless
+QSO_Grantham_lag_19,QSO,Grantham: weight*tau(19)/D,dimensionless
+QSO_Grantham_lag_20,QSO,Grantham: weight*tau(20)/D,dimensionless
+QSO_Grantham_lag_21,QSO,Grantham: weight*tau(21)/D,dimensionless
+QSO_Grantham_lag_22,QSO,Grantham: weight*tau(22)/D,dimensionless
+QSO_Grantham_lag_23,QSO,Grantham: weight*tau(23)/D,dimensionless
+QSO_Grantham_lag_24,QSO,Grantham: weight*tau(24)/D,dimensionless
+QSO_Grantham_lag_25,QSO,Grantham: weight*tau(25)/D,dimensionless
+QSO_Grantham_lag_26,QSO,Grantham: weight*tau(26)/D,dimensionless
+QSO_Grantham_lag_27,QSO,Grantham: weight*tau(27)/D,dimensionless
+QSO_Grantham_lag_28,QSO,Grantham: weight*tau(28)/D,dimensionless
+QSO_Grantham_lag_29,QSO,Grantham: weight*tau(29)/D,dimensionless
+QSO_Grantham_lag_30,QSO,Grantham: weight*tau(30)/D,dimensionless
+CTDC_hydrophobicity_1,CTDC,hydrophobicity: доля класса 1 (RKEDQN),dimensionless
+CTDC_hydrophobicity_2,CTDC,hydrophobicity: доля класса 2 (GASTPHY),dimensionless
+CTDC_hydrophobicity_3,CTDC,hydrophobicity: доля класса 3 (CLVIMFW),dimensionless
+CTDC_vdw_volume_1,CTDC,vdw_volume: доля класса 1 (GASTPDC),dimensionless
+CTDC_vdw_volume_2,CTDC,vdw_volume: доля класса 2 (NVEQIL),dimensionless
+CTDC_vdw_volume_3,CTDC,vdw_volume: доля класса 3 (MHKFRYW),dimensionless
+CTDC_polarity_1,CTDC,polarity: доля класса 1 (LIFWCMVY),dimensionless
+CTDC_polarity_2,CTDC,polarity: доля класса 2 (PATGS),dimensionless
+CTDC_polarity_3,CTDC,polarity: доля класса 3 (HQRKNED),dimensionless
+CTDC_polarizability_1,CTDC,polarizability: доля класса 1 (GASDT),dimensionless
+CTDC_polarizability_2,CTDC,polarizability: доля класса 2 (CPNVEQIL),dimensionless
+CTDC_polarizability_3,CTDC,polarizability: доля класса 3 (KMHFRYW),dimensionless
+CTDC_charge_1,CTDC,charge: доля класса 1 (KR),dimensionless
+CTDC_charge_2,CTDC,charge: доля класса 2 (ANCQGHILMFPSTWYV),dimensionless
+CTDC_charge_3,CTDC,charge: доля класса 3 (DE),dimensionless
+CTDC_secondary_structure_1,CTDC,secondary_structure: доля класса 1 (EALMQKRH),dimensionless
+CTDC_secondary_structure_2,CTDC,secondary_structure: доля класса 2 (VIYCWFT),dimensionless
+CTDC_secondary_structure_3,CTDC,secondary_structure: доля класса 3 (GNPSD),dimensionless
+CTDC_solvent_accessibility_1,CTDC,solvent_accessibility: доля класса 1 (ALFCGIVW),dimensionless
+CTDC_solvent_accessibility_2,CTDC,solvent_accessibility: доля класса 2 (RKQEND),dimensionless
+CTDC_solvent_accessibility_3,CTDC,solvent_accessibility: доля класса 3 (MSPTHY),dimensionless
+CTDT_hydrophobicity_12,CTDT,"hydrophobicity: переход 1<->2, (n_AB+n_BA)/(N-1)",dimensionless
+CTDT_hydrophobicity_13,CTDT,"hydrophobicity: переход 1<->3, (n_AB+n_BA)/(N-1)",dimensionless
+CTDT_hydrophobicity_23,CTDT,"hydrophobicity: переход 2<->3, (n_AB+n_BA)/(N-1)",dimensionless
+CTDT_vdw_volume_12,CTDT,"vdw_volume: переход 1<->2, (n_AB+n_BA)/(N-1)",dimensionless
+CTDT_vdw_volume_13,CTDT,"vdw_volume: переход 1<->3, (n_AB+n_BA)/(N-1)",dimensionless
+CTDT_vdw_volume_23,CTDT,"vdw_volume: переход 2<->3, (n_AB+n_BA)/(N-1)",dimensionless
+CTDT_polarity_12,CTDT,"polarity: переход 1<->2, (n_AB+n_BA)/(N-1)",dimensionless
+CTDT_polarity_13,CTDT,"polarity: переход 1<->3, (n_AB+n_BA)/(N-1)",dimensionless
+CTDT_polarity_23,CTDT,"polarity: переход 2<->3, (n_AB+n_BA)/(N-1)",dimensionless
+CTDT_polarizability_12,CTDT,"polarizability: переход 1<->2, (n_AB+n_BA)/(N-1)",dimensionless
+CTDT_polarizability_13,CTDT,"polarizability: переход 1<->3, (n_AB+n_BA)/(N-1)",dimensionless
+CTDT_polarizability_23,CTDT,"polarizability: переход 2<->3, (n_AB+n_BA)/(N-1)",dimensionless
+CTDT_charge_12,CTDT,"charge: переход 1<->2, (n_AB+n_BA)/(N-1)",dimensionless
+CTDT_charge_13,CTDT,"charge: переход 1<->3, (n_AB+n_BA)/(N-1)",dimensionless
+CTDT_charge_23,CTDT,"charge: переход 2<->3, (n_AB+n_BA)/(N-1)",dimensionless
+CTDT_secondary_structure_12,CTDT,"secondary_structure: переход 1<->2, (n_AB+n_BA)/(N-1)",dimensionless
+CTDT_secondary_structure_13,CTDT,"secondary_structure: переход 1<->3, (n_AB+n_BA)/(N-1)",dimensionless
+CTDT_secondary_structure_23,CTDT,"secondary_structure: переход 2<->3, (n_AB+n_BA)/(N-1)",dimensionless
+CTDT_solvent_accessibility_12,CTDT,"solvent_accessibility: переход 1<->2, (n_AB+n_BA)/(N-1)",dimensionless
+CTDT_solvent_accessibility_13,CTDT,"solvent_accessibility: переход 1<->3, (n_AB+n_BA)/(N-1)",dimensionless
+CTDT_solvent_accessibility_23,CTDT,"solvent_accessibility: переход 2<->3, (n_AB+n_BA)/(N-1)",dimensionless
