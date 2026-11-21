@@ -10,8 +10,6 @@
 - `protein_features.py` — функции расчёта признаков.
 - `Bastion6_features_Colab.ipynb` — загрузка данных, расчёт и выгрузка.
 - `positive_*.csv` и `negative_*.csv` — результаты по классам.
-- `examples_*.csv` — по одному примеру каждого класса для каждого блока признаков.
-- `all_features.csv` — все результаты в одной таблице.
 - `feature_dictionary.csv` — названия и описание столбцов.
 
 Всего получается 562 признака: AAC — 20, DPC — 400, QSO — 100, CTDC — 21, CTDT — 21.
